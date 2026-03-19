@@ -24,3 +24,6 @@ Git 工作流程
 4. git push
 
 提示：可以随意修改这个文件来练习 git add / git commit！
+
+我现在增加了一行代码。
+
